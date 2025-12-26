@@ -1,0 +1,27 @@
+{
+  "greetingFull": "你好啊老妈",
+  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
+  "imagePath": "img/老妈头像.jpg",
+  "text1": "今天是2025年12月26日",
+  "text2": "儿子祝你生日快乐",
+  "text3": "希望你多点快乐，少点烦恼",
+  "text4": "时光不老，永远年轻",
+  "text4Adjective": "",
+  "text5Entry": "",
+  "text5Content": "明年陪你一起玩江山！",
+  "smiley": ":)",
+  "bigTextPart1": "最",
+  "bigTextPart2": "后",
+  "wishHeading": "生日快乐啊!",
+  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
